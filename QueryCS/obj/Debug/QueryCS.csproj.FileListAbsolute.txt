@@ -1,0 +1,10 @@
+C:\CC6\aspnet\other\QueryCS\obj\Debug\QueryCS.csprojAssemblyReference.cache
+C:\CC6\aspnet\other\QueryCS\obj\Debug\QueryCS.Form1.resources
+C:\CC6\aspnet\other\QueryCS\obj\Debug\QueryCS.Properties.Resources.resources
+C:\CC6\aspnet\other\QueryCS\obj\Debug\QueryCS.csproj.GenerateResource.cache
+C:\CC6\aspnet\other\QueryCS\obj\Debug\QueryCS.csproj.CoreCompileInputs.cache
+C:\CC6\aspnet\other\QueryCS\bin\Debug\QueryCS.exe.config
+C:\CC6\aspnet\other\QueryCS\bin\Debug\QueryCS.exe
+C:\CC6\aspnet\other\QueryCS\bin\Debug\QueryCS.pdb
+C:\CC6\aspnet\other\QueryCS\obj\Debug\QueryCS.exe
+C:\CC6\aspnet\other\QueryCS\obj\Debug\QueryCS.pdb
